@@ -1,3 +1,10 @@
+/*
+*
+*  Created by Vishal Yadav
+*
+*  Simple C program to simulate simplest OS
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h> // For sleep
